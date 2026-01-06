@@ -10,7 +10,7 @@ Je suis un passionné de **data science**, **AI**, **développement logiciel** e
 
 ## 🚀 À propos de moi
 
-- 🎓 Étudiant en Génie mécanique (UQAT)
+- 🎓 Ingenieur en Data et  Génie mécanique 
 - 💻 Expérience avec SolidWorks, programmation et analyse de données
 - 🤖 Passionné par l'intelligence artificielle et les systèmes physiques dans les jeux
 - 🏠 Basé à Rouyn-Noranda, Canada
